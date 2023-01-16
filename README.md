@@ -2,8 +2,8 @@
 Sample project to demonstrate issue with a dynamic library's bundle in SPM
 
 ## Steps to reproduce issue:
-- Double click on ClientLibrary/Package.swift to open the project with Xcode
-- Select Product > Test (cmd-U)
+- Double click on `ClientLibrary/Package.swift` to open the project with Xcode
+- Select `Product` > `Test (cmd-U)`
 
 ## Expected result:
 Test passes
